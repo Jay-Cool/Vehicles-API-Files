@@ -1,0 +1,13 @@
+{
+    "result": [
+      {
+        "vin": "ABC123",
+        "make": "Volvo",
+        "model": "XC60",
+        "year": 2001,
+        "city": "Stockholm",
+        "country": "Sweden",
+        "message": "Vehicle deleted."
+      }
+    ]
+  }

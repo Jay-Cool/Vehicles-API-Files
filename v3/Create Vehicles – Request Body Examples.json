@@ -1,0 +1,21 @@
+{
+    "vehicles": [
+        {
+            "make": "Mahindra",
+            "model": "XUV700",
+            "vin": "WDCGG0EB6DG730474",
+            "year": "2020",
+            "country": "India",
+            "city": "Bangalore"
+
+        },
+        {
+            "make": "Ford",
+            "model": "Mustang",
+            "vin": "1FTEX1CM4BF996681",
+            "year": "2022",
+            "country": "United States",
+            "city": "Las Vegas"
+        }
+    ]
+}
