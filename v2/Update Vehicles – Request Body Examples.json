@@ -1,0 +1,14 @@
+{
+    "_comment": "Request Body Example 1: All fields that can be updated.",
+    "make": "Volvo",
+    "model": "XC40",
+    "year": "2021",
+    "country": "Sweden",
+    "city": "Helsingborg"
+}
+
+{
+    "_comment": "Request Body Example 2: Subset of fields that can be updated.",
+    "country": "Sweden",
+    "city": "Helsingborg"
+}
