@@ -1,0 +1,24 @@
+{
+    "result": [
+      {
+        "make": "GMC",
+        "model": "Suburban 1500",
+        "vin": "SALME1D42BA681550",
+        "year": 1993,
+        "country": "Sweden",
+        "city": "Kiruna",
+        "start_date": "2017-06-28",
+        "end_date": "2021-01-18"
+      },
+      {
+        "make": "GMC",
+        "model": "2500",
+        "vin": "WBANB53507C892549",
+        "year": 1993,
+        "country": "Sweden",
+        "city": "Kiruna",
+        "start_date": "2020-08-12",
+        "end_date": ""
+      }
+    ]
+  }  

@@ -1,0 +1,14 @@
+{
+    "_comment": "Request Body Example 1: All fields that can be updated.",
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2022,
+    "country": "Sweden",
+    "city": "Helsingborg"
+}
+
+{
+    "_comment": "Request Body Example 2: Subset of fields that can be updated.",
+    "country": "Germany",
+    "city": "Heidelberg"
+}

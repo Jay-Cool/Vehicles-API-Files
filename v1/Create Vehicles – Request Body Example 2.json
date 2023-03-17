@@ -1,0 +1,21 @@
+{
+    "vehicles": [
+        {
+            "make": "BMW",
+            "model": "X5",
+            "vin": "1FTSX2A55AE458676",
+            "year": "2020",
+            "country": "Tokyo",
+            "city": "Japan"
+
+        },
+        {
+            "make": "Studebaker",
+            "model": "Avanti",
+            "vin": "WAUPFAFMXBA262342",
+            "year": "1964",
+            "country": "Cape Town",
+            "city": "South Africa"
+        }
+    ]
+}
